@@ -1,7 +1,7 @@
 # Cwc_Tests
 Some tests and examples for Cwc
 
-## WebRT
+## GZE
 [Raymarching](https://vliancetool.github.io/WebRT/demo/Raymarching/App.html)
 
 
